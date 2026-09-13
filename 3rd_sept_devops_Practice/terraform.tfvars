@@ -8,4 +8,9 @@ rgs = {
         name     = "amitjindal-rg-2"
         location = "centralindia"
     }
+
+    rg3 = {
+        name     = "amitjindals-rg-3"
+        location = "centralindia"
+    }
 }
